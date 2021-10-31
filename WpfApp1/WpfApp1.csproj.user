@@ -7,15 +7,24 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="CustomControl\File.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="CustomControl\UserControl1.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="CustomControl\File.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="CustomControl\UserControl1.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Static resurs\ResursDictionary.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

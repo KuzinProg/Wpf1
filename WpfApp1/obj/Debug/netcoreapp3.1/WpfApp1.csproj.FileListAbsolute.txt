@@ -20,3 +20,7 @@ C:\Users\proto\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.genr
 C:\Users\proto\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\CustomControl\UserControl1.g.cs
 C:\Users\proto\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
 C:\Users\proto\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\CustomControl\UserControl1.baml
+C:\Users\proto\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\CustomControl\File.g.cs
+C:\Users\proto\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\CustomControl\File.baml
+C:\Users\proto\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\Static resurs\ResursDictionary.baml
+C:\Users\proto\source\repos\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\App.baml

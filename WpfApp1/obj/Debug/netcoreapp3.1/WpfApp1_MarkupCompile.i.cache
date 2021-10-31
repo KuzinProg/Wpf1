@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
 C:\Users\proto\source\repos\WpfApp1\WpfApp1\App.xaml
-331615059
+4332817827
 
 7560358795
 1921654412462
-CustomControl\File.xaml;CustomControl\UserControl1.xaml;MainWindow.xaml;
+CustomControl\File.xaml;CustomControl\UserControl1.xaml;MainWindow.xaml;Static resurs\ResursDictionary.xaml;
 
-False
+True
 

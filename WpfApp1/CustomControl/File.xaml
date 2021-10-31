@@ -4,9 +4,13 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:WpfApp1.CustomControl"
-             mc:Ignorable="d" 
-             d:DesignHeight="450" d:DesignWidth="800">
-    <Grid>
-            
+             mc:Ignorable="d" d:DesignWidth="800" Height="114">
+    <Grid Background="Black">
+        <Button x:Name="mb_Info" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="20,10,0,0" Height="75" Cursor="Wait" Background="DarkOrange" Foreground="White">
+            <Grid>
+                <Image Source="{StaticResource Info}" Margin="10,3,10,21"/>
+                <TextBlock Text="Свойства" Margin="6,50,10,6"/>
+            </Grid>
+        </Button>
     </Grid>
 </UserControl>
